@@ -1,3 +1,5 @@
+Slides for this repository can be found here: https://docs.google.com/presentation/d/1w5WZ3WL3bt6xQmbcQQeavmahwqoMFz_B5zXnDIRyAZ0/edit?usp=sharing
+
 Clone this repository and place it in a Arduino project directory called "subway"
 
 Move subway/secrets.h.template to subway/secrets.h and stash all your secrets.
